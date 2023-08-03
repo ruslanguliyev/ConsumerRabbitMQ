@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7eHtsCKMsd11Qm4x+/IYmgdXBLbAzW+SfYxO32r+xk8=",
+  "Source": "ReceiverApi",
+  "BasePath": "_content/ReceiverApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
